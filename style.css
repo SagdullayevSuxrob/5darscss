@@ -1,0 +1,27 @@
+/* Tag selector 
+h1 {
+    color: green;
+}
+*/
+
+/* Property selector 
+[disabled] {
+    color: red;
+}
+*/
+
+/* Class selector */
+.course-title {
+    color: black;
+}
+
+/* ID selector */
+#course-name {
+    color: purple;
+}
+
+/* Universal selector */
+* {
+    color: blue;
+}
+ 
